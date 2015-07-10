@@ -1,6 +1,10 @@
 # Kindle_Calibre
 Kindle, Calibre, e-book
 
+## readfar
+www.readfar.com
+
+
 ## Kindle book face size
 http://kindlefere.com/tools#Kindle-DRM-Removal
 
